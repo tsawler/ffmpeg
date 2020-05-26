@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strings"
 
-	"github.com/tsawler/goffmpeg/utils"
+	"github.com/tsawler/ffmpeg/utils"
 )
 
 // Configuration ...

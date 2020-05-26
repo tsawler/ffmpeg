@@ -16,14 +16,14 @@ FFMPEG wrapper written in GO which allows to obtain the progress.
 # Getting started
 ## How to transcode a media file
 ```shell
-go get github.com/tsawler/goffmpeg
+go get github.com/tsawler/ffmpeg
 ```
 
 ```go
 package main
 
 import (
-    "github.com/tsawler/goffmpeg/transcoder"
+    "github.com/tsawler/ffmpeg/transcoder"
 )
 
 var inputPath = "/data/testmov"

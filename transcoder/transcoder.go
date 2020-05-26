@@ -12,9 +12,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/tsawler/goffmpeg/ffmpeg"
-	"github.com/tsawler/goffmpeg/models"
-	"github.com/tsawler/goffmpeg/utils"
+	"github.com/tsawler/ffmpeg/ffmpeg"
+	"github.com/tsawler/ffmpeg/models"
+	"github.com/tsawler/ffmpeg/utils"
 )
 
 // Transcoder Main struct

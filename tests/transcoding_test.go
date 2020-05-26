@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/tsawler/goffmpeg/transcoder"
+	"github.com/tsawler/ffmpeg/transcoder"
 )
 
 func TestInputNotFound(t *testing.T) {
