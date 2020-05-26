@@ -1,4 +1,4 @@
-module github.com/tsawler/ffmpeg
+module github.com/tsawler/goffmpeg
 
 go 1.14
 
